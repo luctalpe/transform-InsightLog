@@ -2,6 +2,7 @@
 
 Powershell script to add relative time to a  log file. 
 This will allow to correlate time easily in your log and another event ( example : wpr trace startup) 
+
 Times in the Log file should be expressed in format dd:mm.ss.ms  ( 10:41:56.10213 )
 
 Execute TransformLog.ps1 :
